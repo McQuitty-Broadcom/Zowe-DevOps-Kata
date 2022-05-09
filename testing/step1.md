@@ -3,7 +3,7 @@ The Katacoda Ubuntu Environment is a flexible single node environment. Users are
 The environment also comes with Docker, meaning additional containers can be pulled and access as and when required.
 
 We need to install zowe, so run:
-`npm install @zowe/cli`
+`npm install @zowe/cli`{{execute}}
 
 Now we need to make it easier to run.  As we do not have global rights, add this line:
 `alias zowe="npx zowe"`{{execute}}
