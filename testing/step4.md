@@ -1,13 +1,13 @@
 # Marbles
-![](./assets/DevOps-Workshop4.png)
+![work](./assets/DevOps-Workshop4.png)
 
 # Marbles App
-![](./assets/DevOps-Workshop5.png)
+![work1](./assets/DevOps-Workshop5.png)
 
 # State of Marbles App - Before Workshop
 
-![](./assets/DevOps-Workshop6.png)
+![work2](./assets/DevOps-Workshop6.png)
 
 # Desired State of Marbles App - After Workshop
 
-![](./assets/DevOps-Workshop7.png)
+![work3](./assets/DevOps-Workshop7.png)
