@@ -1,0 +1,13 @@
+{
+  "title": "Testing2",
+  "description": "Testing2",
+  "courses": [
+    {
+      "pathway_id": "mcquitty-broadcom",
+      "title": "testing",
+      "id": "testing",
+      "course_id": "testing",
+      "description": "testing"
+    }
+  ]
+}

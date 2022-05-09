@@ -6,6 +6,18 @@
       {
         "title": "Ubuntu 20.04",
         "text": "step1.md"
+      },
+      {
+        "title": "Command line basics",
+        "text": "step2.md"
+      },
+      {
+        "title": "Accessing Zowe",
+        "text": "step3.md"
+      },
+      {
+        "title": "Adding plugins",
+        "text": "step4.md"
       }
     ],
     "finish": {
