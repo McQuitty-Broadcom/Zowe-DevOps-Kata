@@ -1,5 +1,5 @@
 # Marbles
-![work](./assets/DevOps-Workshop4.png)
+![work](./assets/devops-workshop4.png)
 
 # Marbles App
 ![work1](./assets/DevOps-Workshop5.png)
