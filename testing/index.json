@@ -20,6 +20,10 @@
         "text": "step4.md"
       }
     ],
+    "intro": {
+      "text": "intro.md",
+      "code": "foreground.sh"
+    },
     "finish": {
       "text": "finish.md"
     }
