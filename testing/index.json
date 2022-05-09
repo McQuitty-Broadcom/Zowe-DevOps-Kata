@@ -1,10 +1,10 @@
 {
-  "title": "Ubuntu 20.04 Instance",
-  "description": "General purpose environment",
+  "title": "Zowe Workshop",
+  "description": "Zowe Workshop",
   "details": {
     "steps": [
       {
-        "title": "Ubuntu 20.04",
+        "title": "Zowe Workshop",
         "text": "step1.md"
       },
       {
