@@ -4,19 +4,19 @@
   "details": {
     "steps": [
       {
-        "title": "Zowe Workshop",
+        "title": "Installing Zowe Workshop",
         "text": "step1.md"
       },
       {
-        "title": "Command line basics",
+        "title": "Overall Process",
         "text": "step2.md"
       },
       {
-        "title": "Accessing Zowe",
+        "title": "Installing required plugins",
         "text": "step3.md"
       },
       {
-        "title": "Adding plugins",
+        "title": "Current State",
         "text": "step4.md"
       }
     ],
