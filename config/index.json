@@ -29,7 +29,10 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "hideintro": true,
+    "uilayout": "vscode-terminal-split"
+  },
   "backend": {
     "imageid": "ubuntu:2004"
   }
