@@ -1,11 +1,7 @@
-# Marbles
-![work](./assets/devopsworkshop4.png)
+In order to use those services, we need to tell Zowe how to connect to the mainframe.  
 
-# Marbles App
-![work1](./assets/devopsworkshop5.png)
+We are using Zowe V2, verifiable by running `zowe -V`{{execute}}
 
-# State of Marbles App - Before Workshop
-![work2](./assets/devopsworkshop6.png)
+With Zowe V2, we can use configuration files.  These files describe the services available and how to access them.  All we need to do is provide the login details. 
 
-# Desired State of Marbles App - After Workshop
-![work3](./assets/devopsworkshop7.png)
+Let's grab a config file from a git reposiroty.  If you aren't familiar with git, it is a version control solution and we are only using it to manage this file.

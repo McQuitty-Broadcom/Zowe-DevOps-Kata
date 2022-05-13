@@ -2,14 +2,18 @@
   "title": "Zowe Workshop",
   "description": "Zowe Workshop",
   "details": {
+    "assets": { 
+      "host01" : [
+        {"file": "zowe.config.json",
+        "target": "/root",
+        "chmod": "+rw"
+      }
+      ]
+    },
     "steps": [
       {
         "title": "Installing Zowe Workshop",
         "text": "step1.md"
-      },
-      {
-        "title": "Overall Process",
-        "text": "step2.md"
       },
       {
         "title": "Installing required plugins",

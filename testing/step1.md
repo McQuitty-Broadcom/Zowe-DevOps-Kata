@@ -8,10 +8,14 @@ Zowe is composed of several components, each improving the learning ability, acc
 
 For more information, visit www.zowe.org
 
-We need to install zowe, so run:
+All the dependencies are preinstalled, primarily NodeJS and NPM. 
+Now we can install zowe, so run:
 `npm install @zowe/cli`{{execute}}
+This uses the public repo to get the Zowe CLI utility.
 
-Now we need to make it easier to run.  As we do not have global rights, add this line:
+To run Zowe CLI, as we didn't install this globally, we would have to run `npx zowe`{{execute}}.
+
+To make it easier to run.  Runt this:
 `alias zowe="npx zowe"`{{execute}}
 
 Without this, you would need to type `npx zowe` to run the command. We can now run `zowe`{{execute}}
