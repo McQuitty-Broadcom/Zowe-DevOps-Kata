@@ -24,15 +24,19 @@
         "text": "step1.md"
       },
       {
-        "title": "Installing required plugins",
+        "title": "Installing new plugins",
         "text": "step3.md"
       },
       {
-        "title": "Current State",
+        "title": "Listing Files",
+        "text": "step2.md"
+      },
+      {
+        "title": "Listing datasets",
         "text": "step4.md"
       },
       {
-        "title": "Accessing Files",
+        "title": "Dataset work",
         "text": "step5.md"
       },
       {
