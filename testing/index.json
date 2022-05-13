@@ -11,6 +11,10 @@
         {"file": "zowe.schema.json",
           "target": "/root",
           "chmod": "+rw"
+        },
+        {"file": "envs.sh",
+          "target": "/root",
+          "chmod": "+rw"
         }
       ]
     },
