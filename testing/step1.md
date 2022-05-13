@@ -18,7 +18,7 @@ This uses the public repo to get the Zowe CLI utility.
 
 To run Zowe CLI, as we didn't install this globally, we would have to run `npx zowe`{{execute}}.
 
-To make it easier to run.  Runt this:
+To make it easier to run.  Run the alias command:
 `alias zowe="npx zowe"`{{execute}}
 
-Without this, you would need to type `npx zowe` to run the command. We can now run `zowe`{{execute}}
+Without this, you would need to type `npx zowe` to run the command every time. We can now type just `zowe`{{execute}}

@@ -200,5 +200,5 @@
         "ebg": "ebg",
         "jclcheck": "zw.jclcheck"
     },
-    "autoStore": true
+    "autoStore": false
 }

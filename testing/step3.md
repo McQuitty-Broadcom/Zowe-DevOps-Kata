@@ -9,4 +9,4 @@ Install the File Master Plus Plugin:
 Install the Ops Plugin:
 `zowe plugins install @broadcom/ops-for-zowe-cli`{{execute}}
 
-If you run `zowe` now, you will see new options for Endevor, File Master Plus and Ops.  You have now added new commands to Zowe CLI.
+If you run `zowe`{{execute}} now, you will see new options for Endevor, File Master Plus and Ops.  You have now added new commands to Zowe CLI.
