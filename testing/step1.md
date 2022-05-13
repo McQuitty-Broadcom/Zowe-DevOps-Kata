@@ -11,6 +11,9 @@ For more information, visit www.zowe.org
 All the dependencies are preinstalled, primarily NodeJS and NPM. 
 
 Note, you can click on the commands and they will run for you, or you can type them into the terminal in the lower right.
+Let's ensure our system is set up properly and run:
+``source envs.sh`` {{execute}}
+This file sets our Zowe login information, so we aren't prompted for it later.
 
 Now we can install zowe, so run:
 `npm install @zowe/cli`{{execute}}

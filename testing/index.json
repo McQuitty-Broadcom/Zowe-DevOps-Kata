@@ -40,7 +40,7 @@
     }
   },
   "environment": {
-    "hideintro": true,
+    "hideintro": false,
     "uilayout": "vscode-terminal-split"
   },
   "backend": {

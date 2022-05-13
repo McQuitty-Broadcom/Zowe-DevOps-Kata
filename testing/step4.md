@@ -12,9 +12,8 @@ To get a list of datasets, we can run:
 
 `zowe files list data-sets cust001.*`{{execute}}
 
-We will be prompted for a hostname, username and password.
-Hostname: 104.208.142.8
-Username: cust001
-Password: cust001
-
 If this runs successfully, you should see a list of datasets.
+
+If you are prompted for a hostname, username and passowrd, press CTRL+C.
+The re-run ``source envs.sh``{{execute}}
+Then retry the command above.
