@@ -1,3 +1,2 @@
-"backend": {
-  "imageid": "ubuntu:2004"
-}
+You have now seen what it takes to install Zowe CLI, add plugins, download and update a PDS.
+

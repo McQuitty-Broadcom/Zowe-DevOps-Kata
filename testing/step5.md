@@ -9,7 +9,8 @@ There should be six files in that folder.  These include "marbcopy.txt", "marbdb
 
 You can click on any of those files and view the contents.
 
-
 Let's create a new member:
-`touch cust001/marbles/jcl/newmember.txt`{{execute}}
-`/root/cust001/marbles/jcl/newmember.txt`{{open}}
+`touch cust001/marbles/jcl/newmem.txt`{{execute}}
+
+In Visual Studio Code, click on the new file and enter some information, or some JCL. 
+Save the file.
