@@ -9,6 +9,9 @@ Zowe is composed of several components, each improving the learning ability, acc
 For more information, visit www.zowe.org
 
 All the dependencies are preinstalled, primarily NodeJS and NPM. 
+
+Note, you can click on the commands and they will run for you, or you can type them into the terminal in the lower right.
+
 Now we can install zowe, so run:
 `npm install @zowe/cli`{{execute}}
 This uses the public repo to get the Zowe CLI utility.

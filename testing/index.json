@@ -5,9 +5,13 @@
     "assets": { 
       "host01" : [
         {"file": "zowe.config.json",
-        "target": "/root",
-        "chmod": "+rw"
-      }
+          "target": "/root",
+          "chmod": "+rw"
+        },
+        {"file": "zowe.schema.json",
+          "target": "/root",
+          "chmod": "+rw"
+        }
       ]
     },
     "steps": [
