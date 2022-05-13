@@ -10,7 +10,7 @@ Zowe will read this in the current directory and prompt us for the details.
 
 To get a list of datasets, we can run:
 
-`zowe files list data-sets cust001.*`{{execute}}
+`zowe files list data-set cust001.*`{{execute}}
 
 If this runs successfully, you should see a list of datasets.
 
