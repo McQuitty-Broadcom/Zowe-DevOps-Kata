@@ -1,2 +1,2 @@
 npm install @zowe/cli
-alias zowe="npx zowe"
+alias zowe="npx zowe" 
