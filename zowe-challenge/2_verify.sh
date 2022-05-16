@@ -1,0 +1,1 @@
+test -f cust001/marbles/jcl/marbdb2.jcl
