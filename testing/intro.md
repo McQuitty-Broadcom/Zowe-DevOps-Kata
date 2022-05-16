@@ -4,4 +4,4 @@ Zowe offers modern interfaces to interact with z/OS and allows you to work with 
 
 Zowe is composed of several components, each improving the learning ability, accessibility, and possibility of mainframe development.
 
-For more information, visit www.zowe.org
+For more information, visit https://www.zowe.org 
